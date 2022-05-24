@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer @ [Cloverleaf.me](https://cloverleaf.me) 
+I'm a Staff Software Engineer @ [Cloverleaf.me](https://cloverleaf.me) 
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotomaino/)
 
 <!--
 **CopyJosh/copyjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Source Karma badge for @CopyJosh](https://sourcekarma-og.vercel.app/api/CopyJosh/github)](https://sourcekarma.vercel.app/CopyJosh)
