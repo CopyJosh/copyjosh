@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Staff Software Engineer @ [Cloverleaf.me](https://cloverleaf.me) 
+I'm an Engineering Manager @ [Cloverleaf.me](https://cloverleaf.me) 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotomaino/)
 
